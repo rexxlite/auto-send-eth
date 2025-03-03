@@ -1,1 +1,2 @@
-# auto-send-eth
+install pustaka ethereum 
+pip install web3
